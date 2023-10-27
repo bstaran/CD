@@ -1,4 +1,4 @@
-namespace: default
+namespace: ogjg
 resources:
   - nginx.yaml
   - mariadb.yaml
